@@ -1,0 +1,1 @@
+The real directories for the usage of this program, as the e-mails addresses contained in it, have been changed for privacy. The modifications necessary for it to work are as simple as re-writting the names in the code.
